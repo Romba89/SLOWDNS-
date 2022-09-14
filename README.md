@@ -28,3 +28,7 @@ INSTALADOR
 
 
 rm -rf dnstt-install; wget https://raw.githubusercontent.com/gatesccn01/SLOWDNS/main/install; chmod +x dnstt-install; ./dnstt-install
+
+
+# EL MANDARIN SNIFF
+## GATESCCN
